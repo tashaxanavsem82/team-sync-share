@@ -1,6 +1,6 @@
 {
   "name": "team-sync-share",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collaborative tool for team communication and coordination",
   "main": "index.js",
   "scripts": {
