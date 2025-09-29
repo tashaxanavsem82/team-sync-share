@@ -9,7 +9,7 @@
     "server": "nodemon server.js",
     "deploy": "npm run build --prefix client"
   },
-  "author": "Your Name",
+  "author": "New Author Name",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
